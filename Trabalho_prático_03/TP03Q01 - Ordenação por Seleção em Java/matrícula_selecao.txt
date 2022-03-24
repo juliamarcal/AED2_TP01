@@ -1,0 +1,1 @@
+Matricula: 741019	Numero de comparações: 1830.0	Numero de movimentações: 60	Tempo de execucao: 0.0	
